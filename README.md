@@ -27,7 +27,7 @@ Following are the Screenshots of the Project
 ![GET](https://github.com/adi7pranav/Student_Registration-App-using-React-Springboot-and-MongoDB/assets/84617438/0aee41e1-204c-4ae4-a6e8-5e28ce243efb)
 #### GET (get All Students)
 ![GET_All](https://github.com/adi7pranav/Student_Registration-App-using-React-Springboot-and-MongoDB/assets/84617438/831de1c0-5b6a-4703-a803-47c21710e219)
-#### POST (save Stduent Data)
+#### POST (save Student Data)
 ![POST](https://github.com/adi7pranav/Student_Registration-App-using-React-Springboot-and-MongoDB/assets/84617438/c0882bb5-a5f3-45e0-b6c3-4e0eb4e9ed6e)
 #### PUT (update Student Data by Id)
 ![PUT](https://github.com/adi7pranav/Student_Registration-App-using-React-Springboot-and-MongoDB/assets/84617438/65fbf6e1-56e6-41a8-acbd-6d3af6dac5d4)
