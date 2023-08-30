@@ -17,7 +17,7 @@ The Spring Boot app will start and expose API endpoints at http://localhost:8081
 ## Frontend Implementation Details
 The React frontend uses the following technologies and concepts:<br/>
 **useState Hook**: To manage state within functional components.<br/>
-**useEffect**: To perform side effects like data fetching after rendering.<br/>
+**useEffect Hook**: To perform side effects like data fetching after rendering.<br/>
 **Axios**: A promise-based HTTP client for making API requests.<br/>
 
 ## Screenshots
