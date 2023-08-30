@@ -7,7 +7,7 @@ This project demonstrates how to perform CRUD (Create, Read, Update, Delete) ope
 **Spring Boot**: A Java framework for building microservices and web applications.<br/>
 
 ## API Endpoints
-The Spring Boot app will start and expose API endpoints at http://localhost:8081/api/pranav/student
+The Spring Boot app will start and expose API endpoints at http://localhost:8081/api/pranav/student<br>
 **GET** : /api/pranav/student/getAll: Retrieve a list of all students.<br/>
 **GET** :  /api/pranav/student/student/{id}: Retrieve details of a specific student.<br/>
 **POST** : /api/pranav/student/save: Create a new student.<br/>
